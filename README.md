@@ -7,7 +7,7 @@ This summer (2018) I am taking Andrew Ng's [Deep Learning Specialization](https:
 Below are the five courses offered in this specialization, as well as my current progress. Each correspond to a folder in this repo.
 
   - [x] Neural Networks and Deep Learning
-      * Completed on June 2nd
+      * [Completed on June 2nd](https://www.coursera.org/account/accomplishments/certificate/LXLWYA7BVCU3)
   - [ ] Improving Deep Neural Networks
   - [ ] Structured Machine Learning Projects
   - [ ] Convolutional Neural Networks
