@@ -10,6 +10,7 @@ Below are the five courses offered in this specialization, as well as my current
       * [Completed on June 2nd](https://www.coursera.org/account/accomplishments/certificate/LXLWYA7BVCU3)
   - [x] Improving Deep Neural Networks
       * [Completed on June 20th](https://www.coursera.org/account/accomplishments/certificate/LXLWYA7BVCU3)
-  - [ ] Structured Machine Learning Projects
+  - [x] Structured Machine Learning Projects
+      * [Completed on June 28th](https://www.coursera.org/account/accomplishments/certificate/9GXHPXH3KVWX) 
   - [ ] Convolutional Neural Networks
   - [ ] Sequence Models
