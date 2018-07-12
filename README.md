@@ -14,4 +14,5 @@ Below are the five courses offered in this specialization, as well as my current
       * [Completed on June 28th](https://www.coursera.org/account/accomplishments/certificate/9GXHPXH3KVWX) 
   - [x] Convolutional Neural Networks
       * [Completed on July 5th](https://www.coursera.org/account/accomplishments/certificate/784LPSFC25AE)
-  - [ ] Sequence Models
+  - [x] Sequence Models
+      * [Completed on July 12th](https://www.coursera.org/account/accomplishments/specialization/certificate/WTHHPAQ6ERZE)
