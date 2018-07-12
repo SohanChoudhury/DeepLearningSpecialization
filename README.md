@@ -4,7 +4,7 @@
 
 This summer (2018) I am taking Andrew Ng's [Deep Learning Specialization](https://www.deeplearning.ai) on Coursera, and have created this repo to document related personal exploration and extra materials.
 
-Below are the five courses offered in this specialization, as well as my current progress. Each correspond to a folder in this repo.
+Below are the five courses offered in this specialization, as well as my current progress. A few correspond to a folder in this repo.
 
   - [x] Neural Networks and Deep Learning
       * [Completed on June 2nd](https://www.coursera.org/account/accomplishments/certificate/LXLWYA7BVCU3)
@@ -15,4 +15,6 @@ Below are the five courses offered in this specialization, as well as my current
   - [x] Convolutional Neural Networks
       * [Completed on July 5th](https://www.coursera.org/account/accomplishments/certificate/784LPSFC25AE)
   - [x] Sequence Models
-      * [Completed on July 12th](https://www.coursera.org/account/accomplishments/specialization/certificate/WTHHPAQ6ERZE)
+      * [Completed on July 12th](https://www.coursera.org/account/accomplishments/certificate/9WEBKKURGSC2)
+      
+Specialization Certificate [here](https://www.coursera.org/account/accomplishments/specialization/certificate/WTHHPAQ6ERZE).
