@@ -18,3 +18,5 @@ Below are the five courses offered in this specialization, as well as my current
       * [Completed on July 12th](https://www.coursera.org/account/accomplishments/certificate/9WEBKKURGSC2)
       
 Specialization Certificate [here](https://www.coursera.org/account/accomplishments/specialization/certificate/WTHHPAQ6ERZE).
+
+**109 pages of notes available _[here](https://drive.google.com/file/d/1jxEwSyPaaBJwaJN_pHG9F11sR3TPSN-U/view?usp=sharing)_**, feel free to download and use a resource either to review, or to follow along with as you take th course to ensure you don't miss anything. Contains key lessons learned from video lectures, quizzes, programming assignments, and interviews.
